@@ -10,9 +10,10 @@ This is how the frame of the simple text editor application program looks like:
 
 * Font Size can be changed
 * Font Color can be changed
-* Font Style can be changed
+* Font Style can be changed.
+
 It has three basic operation 
-*Save file
-*Open a existing file
-*Exiting from the current file
+* Save file
+* Open a existing file
+* Exiting from the current file
 
